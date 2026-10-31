@@ -38,7 +38,7 @@ a {
   border-width: 1px;
   border-style: solid;
 
-  width: 250px;
+  width: max-content;
   padding: 10px;
   padding-top: 5px;
   background-color: rgba(128, 128, 128, 0.121);
